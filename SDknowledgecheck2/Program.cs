@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 class Program
 {
@@ -29,7 +28,7 @@ class Program
 
 class Fruit
 {
-    public int Calories { get; set; }
+    public int Calories;
 }
 
 class Banana : Fruit
