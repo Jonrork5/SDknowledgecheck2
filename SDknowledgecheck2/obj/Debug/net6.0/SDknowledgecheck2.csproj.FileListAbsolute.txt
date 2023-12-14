@@ -1,0 +1,14 @@
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.AssemblyInfo.cs
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\bin\Debug\net6.0\SDknowledgecheck2.exe
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\bin\Debug\net6.0\SDknowledgecheck2.deps.json
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\bin\Debug\net6.0\SDknowledgecheck2.runtimeconfig.json
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\bin\Debug\net6.0\SDknowledgecheck2.dll
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\bin\Debug\net6.0\SDknowledgecheck2.pdb
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.dll
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\refint\SDknowledgecheck2.dll
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.pdb
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\SDknowledgecheck2.genruntimeconfig.cache
+C:\Users\Jon\source\repos\SDknowledgecheck2\SDknowledgecheck2\obj\Debug\net6.0\ref\SDknowledgecheck2.dll
